@@ -1,0 +1,19 @@
+# File .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+ENV/
+.DS_Store
+Thumbs.db
+*.log
+.streamlit/secrets.toml
