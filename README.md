@@ -3,20 +3,14 @@ Aplikasi web interaktif untuk memprediksi tingkat distraksi mahasiswa akibat pen
 
 
 📁 Struktur Folder
+
 streamlit_app/
-
 ├── app.py
-
 ├── requirements.txt
-
 ├── README.md
-
 └── models/
-
     ├── mlp_model.h5
-    
-    ├── scaler.pkl
-    
+    ├── scaler.pkl    
     └── label_encoder.pkl
 
 
@@ -73,3 +67,4 @@ Project ini dibuat untuk keperluan tugas mata kuliah Deep Learning.
 📞 Kontak
 
 Jika ada pertanyaan atau issue, silakan hubungi tim pengembang.
+
